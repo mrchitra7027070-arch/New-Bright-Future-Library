@@ -1,0 +1,6 @@
+{
+  "name": "Library Seat Management System",
+  "description": "A complete full-stack web application designed for library staff to control seats, floors, student files register, fee income collections, daily check-ins/check-outs record and visitors inquiries inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

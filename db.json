@@ -1,0 +1,816 @@
+{
+  "admins": [
+    {
+      "id": "admin-1",
+      "username": "admin",
+      "passwordHash": "$2b$10$Wp74uxM0VydboWbaKjzfaeQyF/FZ2TjpFDbNN.aSglaHvIkUW.wky"
+    }
+  ],
+  "seats": [
+    {
+      "id": "seat-s01",
+      "seatNumber": "S-01",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s02",
+      "seatNumber": "S-02",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s03",
+      "seatNumber": "S-03",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s04",
+      "seatNumber": "S-04",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s05",
+      "seatNumber": "S-05",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s06",
+      "seatNumber": "S-06",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s07",
+      "seatNumber": "S-07",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s08",
+      "seatNumber": "S-08",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s09",
+      "seatNumber": "S-09",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s10",
+      "seatNumber": "S-10",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s11",
+      "seatNumber": "S-11",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s12",
+      "seatNumber": "S-12",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s13",
+      "seatNumber": "S-13",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s14",
+      "seatNumber": "S-14",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s15",
+      "seatNumber": "S-15",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s16",
+      "seatNumber": "S-16",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s17",
+      "seatNumber": "S-17",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s18",
+      "seatNumber": "S-18",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s19",
+      "seatNumber": "S-19",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s20",
+      "seatNumber": "S-20",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s21",
+      "seatNumber": "S-21",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s22",
+      "seatNumber": "S-22",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s23",
+      "seatNumber": "S-23",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s24",
+      "seatNumber": "S-24",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s25",
+      "seatNumber": "S-25",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s26",
+      "seatNumber": "S-26",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s27",
+      "seatNumber": "S-27",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s28",
+      "seatNumber": "S-28",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s29",
+      "seatNumber": "S-29",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s30",
+      "seatNumber": "S-30",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s31",
+      "seatNumber": "S-31",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s32",
+      "seatNumber": "S-32",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s33",
+      "seatNumber": "S-33",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s34",
+      "seatNumber": "S-34",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s35",
+      "seatNumber": "S-35",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s36",
+      "seatNumber": "S-36",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s37",
+      "seatNumber": "S-37",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s38",
+      "seatNumber": "S-38",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s39",
+      "seatNumber": "S-39",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s40",
+      "seatNumber": "S-40",
+      "floor": "Ground Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s41",
+      "seatNumber": "S-41",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s42",
+      "seatNumber": "S-42",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s43",
+      "seatNumber": "S-43",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s44",
+      "seatNumber": "S-44",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s45",
+      "seatNumber": "S-45",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s46",
+      "seatNumber": "S-46",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s47",
+      "seatNumber": "S-47",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s48",
+      "seatNumber": "S-48",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s49",
+      "seatNumber": "S-49",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s50",
+      "seatNumber": "S-50",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s51",
+      "seatNumber": "S-51",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s52",
+      "seatNumber": "S-52",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s53",
+      "seatNumber": "S-53",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s54",
+      "seatNumber": "S-54",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s55",
+      "seatNumber": "S-55",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s56",
+      "seatNumber": "S-56",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s57",
+      "seatNumber": "S-57",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s58",
+      "seatNumber": "S-58",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s59",
+      "seatNumber": "S-59",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s60",
+      "seatNumber": "S-60",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s61",
+      "seatNumber": "S-61",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s62",
+      "seatNumber": "S-62",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s63",
+      "seatNumber": "S-63",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s64",
+      "seatNumber": "S-64",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s65",
+      "seatNumber": "S-65",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s66",
+      "seatNumber": "S-66",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s67",
+      "seatNumber": "S-67",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s68",
+      "seatNumber": "S-68",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s69",
+      "seatNumber": "S-69",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s70",
+      "seatNumber": "S-70",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s71",
+      "seatNumber": "S-71",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s72",
+      "seatNumber": "S-72",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s73",
+      "seatNumber": "S-73",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s74",
+      "seatNumber": "S-74",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s75",
+      "seatNumber": "S-75",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s76",
+      "seatNumber": "S-76",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s77",
+      "seatNumber": "S-77",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s78",
+      "seatNumber": "S-78",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s79",
+      "seatNumber": "S-79",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s80",
+      "seatNumber": "S-80",
+      "floor": "1st Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s81",
+      "seatNumber": "S-81",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s82",
+      "seatNumber": "S-82",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s83",
+      "seatNumber": "S-83",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s84",
+      "seatNumber": "S-84",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s85",
+      "seatNumber": "S-85",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s86",
+      "seatNumber": "S-86",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s87",
+      "seatNumber": "S-87",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s88",
+      "seatNumber": "S-88",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s89",
+      "seatNumber": "S-89",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s90",
+      "seatNumber": "S-90",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s91",
+      "seatNumber": "S-91",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s92",
+      "seatNumber": "S-92",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s93",
+      "seatNumber": "S-93",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s94",
+      "seatNumber": "S-94",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s95",
+      "seatNumber": "S-95",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s96",
+      "seatNumber": "S-96",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s97",
+      "seatNumber": "S-97",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s98",
+      "seatNumber": "S-98",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s99",
+      "seatNumber": "S-99",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s100",
+      "seatNumber": "S-100",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s101",
+      "seatNumber": "S-101",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s102",
+      "seatNumber": "S-102",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    },
+    {
+      "id": "seat-s103",
+      "seatNumber": "S-103",
+      "floor": "2nd Floor",
+      "seatType": "Dynamic Seat",
+      "status": "Available"
+    }
+  ],
+  "students": [],
+  "fees": [
+    {
+      "id": "fee-1781799877634-828",
+      "studentId": "STU-1001",
+      "studentName": "pankaj",
+      "amount": 550,
+      "month": "June 2026",
+      "paymentDate": "",
+      "paymentMode": "Cash",
+      "status": "Pending"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att-1",
+      "studentId": "std-1",
+      "studentName": "Rahul Sharma",
+      "date": "2026-06-10",
+      "checkIn": "08:15",
+      "checkOut": "14:30",
+      "status": "Present"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-1",
+      "name": "Vikram Grover",
+      "mobile": "9898989898",
+      "message": "Hello, I want to join the morning slot. Is an AC cabin available on the 1st floor?",
+      "date": "2026-06-08T10:45:00Z"
+    },
+    {
+      "id": "enq-2",
+      "name": "Megha Gupta",
+      "mobile": "9797979797",
+      "message": "What are the charges for a daily trial slot? Do you have high-speed private WiFi?",
+      "date": "2026-06-09T14:15:00Z"
+    }
+  ],
+  "notices": [
+    {
+      "id": "notice-1",
+      "title": "Admission Open for July Batch",
+      "content": "We are accepting admissions for the July session. Reserve your premium cabins or corner seats before June 25th to secure a 10% early-bird discount on monthly packages.",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "notice-2",
+      "title": "Power Maintenance Schedule",
+      "content": "Please note that scheduled generator testing will take place this Sunday (June 14th) between 2:00 PM and 3:00 PM. High-speed backup power will supply lights and essential routers, but please plan high-intensity downloads accordingly.",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "notice-3",
+      "title": "Drinking Water Purifier Upgraded",
+      "content": "We have installed a brand new RO water purification system in the common pantry with hot and cold options. Please keep the dispensing area clean.",
+      "date": "2026-06-10"
+    }
+  ],
+  "library_settings": {
+    "libraryName": "New Bright Future Library",
+    "logo": "https://i.ibb.co/RGnbLxL0/Gemini-Generated-Image-deqoepdeqoepdeqo-1.png",
+    "address": "Grover Market, Near Tibbat Market, Hisar, Haryana",
+    "contactNumber": "+91 97287 13127",
+    "whatsapp": "+91 97287 13127",
+    "email": "info@brightfuturelibrary.com",
+    "website": "www.brightfuturelibrary.com",
+    "googleMapsLocation": "https://share.google/mHtoVrAe4sliDlg15",
+    "openingTime": "07:00 AM",
+    "closingTime": "08:00 PM",
+    "facilities": [
+      "Free WiFi",
+      "Full AC Reading Hall",
+      "RO Water",
+      "Newspaper",
+      "Lunch Room",
+      "Free Parking Area"
+    ],
+    "facebook": "https://facebook.com/brightfuturelibrary",
+    "twitter": "https://twitter.com/brightfuturelibrary",
+    "instagram": "https://instagram.com/brightfuturelibrary"
+  },
+  "testimonials": []
+}
